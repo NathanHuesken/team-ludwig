@@ -1,2 +1,1 @@
-# team-ludwig
-First commit
+# Pinocchio
