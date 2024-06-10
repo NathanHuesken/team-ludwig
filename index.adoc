@@ -1,0 +1,6 @@
+= Pinocchio
+
+== Charaktere
+
+include::characters/pinocchio.adoc[leveloffset=2]
+
