@@ -1,6 +1,8 @@
-= Pinocchio
+= Pinocchio 
 
 == Charaktere
+
+include::characters/antonio.adoc[leveloffset=2]
 
 include::characters/pinocchio.adoc[leveloffset=2]
 
